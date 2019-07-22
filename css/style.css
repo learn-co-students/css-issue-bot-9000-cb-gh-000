@@ -1,5 +1,5 @@
 body {
-  background :pink;
+  background-color :pink;
 }
 
 h1 {
@@ -22,5 +22,5 @@ h2 {
 #tasks .completed {
 
   text-decoration: underline;
-    background: #ccc;
+    background-color: #ccc;
 }
